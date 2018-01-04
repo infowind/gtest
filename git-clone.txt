@@ -10,3 +10,12 @@ New change to local
 
 dev1
 
+<<<<<<< HEAD
+=======
+
+
+d1d1d1d1d
+
+
+from live
+>>>>>>> dev
